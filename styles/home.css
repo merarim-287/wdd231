@@ -1,8 +1,4 @@
-header {
-    display: flex;
-}
-
-header img {
+header-img {
     width: 30px;
     height: auto;
     margin: 1rem;
@@ -15,7 +11,7 @@ header h1 {
     font-weight: 400;
 }
 
-header a {
+header li {
     align-items: space-between;
     justify-content: center; 
     font-size: 30px;
