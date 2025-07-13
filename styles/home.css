@@ -1,6 +1,6 @@
 header {
   display: grid;
-  grid-template-columns: 1fr; 
+  grid-template-columns: 1fr 1fr; 
   align-items: center;
   padding: 1rem;
   gap: 1rem; 
